@@ -1,2 +1,0 @@
-# InteractResizable
-Created with CodeSandbox
